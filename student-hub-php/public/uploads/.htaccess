@@ -1,0 +1,13 @@
+# Sécurité : empêcher l'exécution de scripts dans ce répertoire
+Options -ExecCGI
+php_flag engine off
+AddHandler cgi-script .php .pl .py .jsp .asp .sh .cgi
+
+<FilesMatch "\.(php|php\d|phtml|phar)$">
+    Deny from all
+</FilesMatch>
+
+# Autoriser uniquement les PDF
+<FilesMatch "\.pdf$">
+    Allow from all
+</FilesMatch>

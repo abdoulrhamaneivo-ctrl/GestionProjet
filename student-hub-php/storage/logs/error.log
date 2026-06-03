@@ -1,0 +1,322 @@
+[2026-06-01 22:47:38] ERROR: syntax error, unexpected token "public"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(87): App\Core\Router->dispatch('GET', '/student/submit')
+#3 {main}[2026-06-01 22:48:00] ERROR: syntax error, unexpected token "public"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(87): App\Core\Router->dispatch('GET', '/student/submit')
+#3 {main}[2026-06-01 23:42:48] ERROR: Class "App\Controllers\finfo" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->processSubmit()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('POST', '/student/submit')
+#2 {main}[2026-06-01 23:57:53] ERROR: Class "App\Controllers\finfo" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->processImportStudents()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('POST', '/admin/students...')
+#2 {main}[2026-06-02 00:08:35] ERROR: Class "App\Controllers\finfo" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->processImportStudents()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('POST', '/admin/students...')
+#2 {main}[2026-06-02 00:11:09] ERROR: Class "App\Controllers\finfo" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->processImportStudents()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('POST', '/admin/students...')
+#2 {main}[2026-06-02 00:14:53] ERROR: Class "App\Controllers\finfo" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->processImportStudents()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('POST', '/admin/students...')
+#2 {main}[2026-06-02 00:15:08] ERROR: Class "App\Controllers\finfo" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->processImportStudents()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('POST', '/admin/students...')
+#2 {main}[2026-06-02 00:15:14] ERROR: Class "App\Controllers\finfo" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->processImportStudents()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('POST', '/admin/students...')
+#2 {main}[2026-06-02 00:15:25] ERROR: Class "App\Controllers\finfo" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->processImportStudents()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('POST', '/admin/students...')
+#2 {main}[2026-06-02 00:31:29] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:31:31] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:31:33] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:31:35] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:31:35] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:31:37] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:31:39] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/students...')
+#3 {main}[2026-06-02 00:31:41] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/students...')
+#3 {main}[2026-06-02 00:31:42] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/students...')
+#3 {main}[2026-06-02 00:32:14] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/students...')
+#3 {main}[2026-06-02 00:32:16] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:32:16] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:32:17] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:32:24] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:32:33] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:32:36] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:32:36] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:33:51] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:33:51] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/students...')
+#3 {main}[2026-06-02 00:33:52] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/students...')
+#3 {main}[2026-06-02 00:34:40] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:37:04] ERROR: syntax error, unexpected variable "$filename", expecting "function" or "const"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:38:05] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:38:06] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:38:07] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:15] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:16] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:16] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:16] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:17] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:18] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:20] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:25] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 00:40:25] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/students...')
+#3 {main}[2026-06-02 00:40:25] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/students...')
+#3 {main}[2026-06-02 00:40:31] ERROR: Unmatched '}'
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 07:53:02] ERROR: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Models\Project.php(201): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(326): App\Models\Project::getUserGradesReport(4)
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->downloadReportPdf()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/report...')
+#4 {main}[2026-06-02 07:53:29] ERROR: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Models\Project.php(201): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(326): App\Models\Project::getUserGradesReport(4)
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->downloadReportPdf()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/report...')
+#4 {main}[2026-06-02 08:15:45] ERROR: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Models\Project.php(201): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(326): App\Models\Project::getUserGradesReport(4)
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->downloadReportPdf()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/report...')
+#4 {main}[2026-06-02 09:07:54] ERROR: App\Models\Project::findSubmittedProject(): Argument #2 ($userId) must be of type int, null given, called in C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php on line 31
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(31): App\Models\Project::findSubmittedProject(1, NULL)
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/dashbo...')
+#3 {main}[2026-06-02 09:08:49] ERROR: App\Models\Project::findSubmittedProject(): Argument #2 ($userId) must be of type int, null given, called in C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php on line 31
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(31): App\Models\Project::findSubmittedProject(1, NULL)
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/dashbo...')
+#3 {main}[2026-06-02 09:08:54] ERROR: App\Models\Project::findSubmittedProject(): Argument #2 ($userId) must be of type int, null given, called in C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php on line 31
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(31): App\Models\Project::findSubmittedProject(1, NULL)
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/dashbo...')
+#3 {main}[2026-06-02 09:09:34] ERROR: App\Models\Project::findSubmittedProject(): Argument #2 ($userId) must be of type int, null given, called in C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php on line 31
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(31): App\Models\Project::findSubmittedProject(1, NULL)
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/dashbo...')
+#3 {main}[2026-06-02 09:18:06] ERROR: Class "Csrf" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Controller.php(26): require()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\ProfController.php(68): App\Core\Controller->render('prof/dashboard', Array, 'Espace Enseigna...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\ProfController->dashboard()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#4 {main}[2026-06-02 09:19:26] ERROR: Class "Csrf" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Controller.php(26): require()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\ProfController.php(68): App\Core\Controller->render('prof/dashboard', Array, 'Espace Enseigna...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\ProfController->dashboard()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#4 {main}[2026-06-02 09:20:51] ERROR: Class "Csrf" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Controller.php(26): require()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\ProfController.php(68): App\Core\Controller->render('prof/dashboard', Array, 'Espace Enseigna...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\ProfController->dashboard()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#4 {main}[2026-06-02 09:20:52] ERROR: SQLSTATE[HY093]: Invalid parameter number
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Models\Project.php(217): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(325): App\Models\Project::getUserGradesReport(4)
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->downloadReportPdf()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/report...')
+#4 {main}[2026-06-02 09:50:53] ERROR: syntax error, unexpected token "private"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-02 09:50:55] ERROR: syntax error, unexpected token "private"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-02 10:22:02] ERROR: Class "Session" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Controller.php(26): require()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\AdminController.php(53): App\Core\Controller->render('admin/dashboard', Array, 'Administration ...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->dashboard()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#4 {main}[2026-06-02 10:22:06] ERROR: Class "Session" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Controller.php(26): require()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\AdminController.php(53): App\Core\Controller->render('admin/dashboard', Array, 'Administration ...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->dashboard()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#4 {main}[2026-06-02 10:22:06] ERROR: Class "Session" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Controller.php(26): require()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\AdminController.php(53): App\Core\Controller->render('admin/dashboard', Array, 'Administration ...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->dashboard()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#4 {main}[2026-06-02 10:22:15] ERROR: Class "Session" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Controller.php(26): require()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\AdminController.php(53): App\Core\Controller->render('admin/dashboard', Array, 'Administration ...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->dashboard()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#4 {main}[2026-06-02 10:24:31] ERROR: Class "Session" not found
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Controller.php(26): require()
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\AdminController.php(53): App\Core\Controller->render('admin/dashboard', Array, 'Administration ...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->dashboard()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#4 {main}[2026-06-02 11:08:37] ERROR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'emsp_assignment_db.exercice_designated_chefs' doesn't exist
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Models\Exercise.php(104): PDO->prepare('SELECT 1 FROM e...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(92): App\Models\Exercise::isDesignatedChef(4, 8)
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->showSubmitForm()
+#3 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/submit')
+#4 {main}[2026-06-02 12:29:10] ERROR: syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\ProfController.php(93): App\Core\Controller->render('prof/dashboard', Array, 'Espace Enseigna...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\ProfController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-02 12:29:12] ERROR: syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\ProfController.php(93): App\Core\Controller->render('prof/dashboard', Array, 'Espace Enseigna...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\ProfController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-02 12:29:13] ERROR: syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\ProfController.php(93): App\Core\Controller->render('prof/dashboard', Array, 'Espace Enseigna...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\ProfController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-02 12:29:14] ERROR: syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\ProfController.php(93): App\Core\Controller->render('prof/dashboard', Array, 'Espace Enseigna...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\ProfController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-02 12:45:44] ERROR: syntax error, unexpected token "else"
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\ProfController.php(95): App\Core\Controller->render('prof/dashboard', Array, 'Espace Enseigna...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\ProfController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-02 15:46:32] ERROR: La vue [student/submit] n'a pas été trouvée à l'adresse: C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app/Views/student/submit.php
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\StudentController.php(113): App\Core\Controller->render('student/submit', Array, 'Soumettre un Pr...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\StudentController->showSubmitForm()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/student/submit')
+#3 {main}[2026-06-02 19:12:34] ERROR: syntax error, unexpected token "else", expecting end of file
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\AdminController.php(66): App\Core\Controller->render('admin/dashboard', Array, 'Administration ...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-02 19:12:35] ERROR: syntax error, unexpected token "else", expecting end of file
+#0 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Controllers\AdminController.php(66): App\Core\Controller->render('admin/dashboard', Array, 'Administration ...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(46): App\Controllers\AdminController->dashboard()
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(96): App\Core\Router->dispatch('GET', '/admin/dashboar...')
+#3 {main}[2026-06-03 14:51:23] ERROR: syntax error, unexpected identifier "etes", expecting ")"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(112): App\Core\Router->dispatch('GET', '/prof/grade')
+#3 {main}[2026-06-03 14:51:29] ERROR: syntax error, unexpected identifier "etes", expecting ")"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(112): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-03 14:51:32] ERROR: syntax error, unexpected identifier "etes", expecting ")"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(112): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-03 14:51:50] ERROR: syntax error, unexpected identifier "etes", expecting ")"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(112): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-03 14:51:55] ERROR: syntax error, unexpected identifier "etes", expecting ")"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(112): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}[2026-06-03 14:52:31] ERROR: syntax error, unexpected identifier "etes", expecting ")"
+#0 [internal function]: {closure}('App\\Controllers...')
+#1 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\app\Core\Router.php(43): class_exists('App\\Controllers...')
+#2 C:\xampp\htdocs\COMPO-FINAL\php-mvc-assignment-manager\student-hub-php\public\index.php(112): App\Core\Router->dispatch('GET', '/prof/dashboard')
+#3 {main}

@@ -1,0 +1,20 @@
+# ----------------------------------------------------------------------
+# EMSP Assignment Manager - Root Directory Configuration
+# Protects system directories and forwards matches to the public/ folder.
+# ----------------------------------------------------------------------
+
+# Disable folder indexing
+Options -Indexes
+
+# Exclude sensitive files from access
+<FilesMatch "^\.env|database\.sql|\.git|config\.php|error\.log$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Forward requests to public controller
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^$ public/ [L]
+    RewriteRule (.*) public/$1 [L]
+</IfModule>

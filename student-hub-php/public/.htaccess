@@ -1,0 +1,19 @@
+# ----------------------------------------------------------------------
+# EMSP Assignment Manager - Public Directory Rewriting Router
+# Feeds matching requests to the Front Controller index.php.
+# ----------------------------------------------------------------------
+
+# Disable folder indexings
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # If the requested filename is not a real directory
+    RewriteCond %{REQUEST_FILENAME} !-d
+    # If the requested filename is not a real file
+    RewriteCond %{REQUEST_FILENAME} !-f
+
+    # Route everything to index.php
+    RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>

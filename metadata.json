@@ -1,0 +1,6 @@
+{
+  "name": "PHP MVC Assignment Manager",
+  "description": "Plateforme PHP MVC & PRG pour la gestion, la soumission et la notation des projets étudiants de l'EMSP, avec un simulateur interactif pour tester l'architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,970 @@
+<!doctype html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Page non trouvée &#8211; EMSP</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="EMSP &raquo; Flux" href="https://www.emsp.int/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="EMSP &raquo; Flux des commentaires" href="https://www.emsp.int/index.php/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.emsp.int\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.emsp.int/wp-includes/css/dist/block-library/style.min.css?ver=6.5.7' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://www.emsp.int/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://www.emsp.int/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.5.7' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hello-elementor-css' href='https://www.emsp.int/wp-content/themes/hello-elementor/style.min.css?ver=2.8.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://www.emsp.int/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1753291111' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/post-6.css?ver=1753291112' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://www.emsp.int/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://www.emsp.int/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1753291112' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/global.css?ver=1753291119' media='all' />
+<link rel='stylesheet' id='elementor-post-12-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/post-12.css?ver=1769683792' media='all' />
+<link rel='stylesheet' id='fluentform-elementor-widget-css' href='https://www.emsp.int/wp-content/plugins/fluentform/assets/css/fluent-forms-elementor-widget.css?ver=5.0.9' media='all' />
+<link rel='stylesheet' id='elementor-post-55-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/post-55.css?ver=1754692615' media='all' />
+<link rel='stylesheet' id='ecs-styles-css' href='https://www.emsp.int/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.9' media='all' />
+<link rel='stylesheet' id='elementor-post-300-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/post-300.css?ver=1718297044' media='all' />
+<link rel='stylesheet' id='elementor-post-303-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/post-303.css?ver=1754999288' media='all' />
+<link rel='stylesheet' id='elementor-post-447-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/post-447.css?ver=1718297860' media='all' />
+<link rel='stylesheet' id='elementor-post-530-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/post-530.css?ver=1714758204' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.5.7' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://www.emsp.int/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.emsp.int/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://www.emsp.int/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.emsp.int/wp-content/plugins/jetpack/css/jetpack.css?ver=12.8.2' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script id="wp-statistics-tracker-js-extra">
+var WP_Statistics_Tracker_Object = {"hitRequestUrl":"https:\/\/www.emsp.int\/index.php\/wp-json\/wp-statistics\/v2\/hit?wp_statistics_hit_rest=yes&track_all=0&current_page_type=404&current_page_id=0&search_query&page_uri=L2NvbmNvdXJzMjUvaW1hZ2VzLzIwMTcvMDEvMTMvYWNoaXZlbWVudC1iZy5qcGc","keepOnlineRequestUrl":"https:\/\/www.emsp.int\/index.php\/wp-json\/wp-statistics\/v2\/online?wp_statistics_hit_rest=yes&track_all=0&current_page_type=404&current_page_id=0&search_query&page_uri=L2NvbmNvdXJzMjUvaW1hZ2VzLzIwMTcvMDEvMTMvYWNoaXZlbWVudC1iZy5qcGc","option":{"dntEnabled":"1","cacheCompatibility":""}};
+</script>
+<script src="https://www.emsp.int/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=6.5.7" id="wp-statistics-tracker-js"></script>
+<script src="https://www.emsp.int/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.emsp.int/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="ecs_ajax_load-js-extra">
+var ecs_ajax_params = {"ajaxurl":"https:\/\/www.emsp.int\/wp-admin\/admin-ajax.php","posts":"{\"error\":\"404\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
+</script>
+<script src="https://www.emsp.int/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.9" id="ecs_ajax_load-js"></script>
+<script src="https://www.emsp.int/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.9" id="ecs-script-js"></script>
+<link rel="https://api.w.org/" href="https://www.emsp.int/index.php/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.emsp.int/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.7" />
+	<style>img#wpstats{display:none}</style>
+		<!-- Analytics by WP Statistics v14.2 - https://wp-statistics.com/ -->
+<meta name="generator" content="Elementor 3.16.4; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style>
+	#menu-1-3ca2337 > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-3728 :hover{
+		background: #147c71;
+		color: #fff !important;
+	}
+	#menu-1-3ca2337 > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-3728 {
+		animation: myfirst 1s infinite;
+-webkit-animation: myfirst 1s infinite;
+background: #147c71;
+	}
+	#menu-1-3ca2337 > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-3728 a{color: #fff;
+animation: myfirst 1s infinite;
+-webkit-animation: myfirst 1s infinite;
+background: #d00000;}
+	/* Chrome, Safari, Opera */
+@-webkit-keyframes myfirst {
+	20%{background: #d00000;}
+    50%{background: #ef9c00;}
+    100%{background: #147c71;}
+}
+ 
+/* Standard syntax */
+@keyframes myfirst {
+    20%{background: #d00000;}
+    50%{background: #ef9c00;}
+    100%{background: #147c71;}
+}
+</style>
+<link rel="icon" href="https://www.emsp.int/wp-content/uploads/2023/10/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.emsp.int/wp-content/uploads/2023/10/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.emsp.int/wp-content/uploads/2023/10/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.emsp.int/wp-content/uploads/2023/10/cropped-favicon-270x270.png" />
+		<style id="wp-custom-css">
+			#media-post .post_overlay_effect {
+    height: 262px;
+    width: 100%;
+    background: #0000001b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+}
+#media-post .post_overlay_effect > div{
+	height: max-content !important;
+}
+ 
+#media-post:hover .post_overlay_effect{
+   height: 40px;
+   background: #000;
+}
+
+#media-post:hover .post_overlay_effect i{
+    font-size: 18px;
+}
+#menu-1-3ca2337 > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-3481 {bgcolor: red !important; font-size: 88px !important;}		</style>
+		</head>
+<body class="error404 wp-custom-logo elementor-default elementor-kit-6">
+
+
+<a class="skip-link screen-reader-text" href="#content">Aller au contenu</a>
+
+		<div data-elementor-type="header" data-elementor-id="12" class="elementor elementor-12 elementor-location-header" data-elementor-post-type="elementor_library">
+						<div class="elementor-element elementor-element-d7caa12 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="d7caa12" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-7cbf094 e-con-full e-flex e-con e-child" data-id="7cbf094" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-8d38653 elementor-icon-list--layout-inline elementor-align-left elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8d38653" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.emsp.int/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1753291121">		<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">+225 27 21 21 45 60</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">+225 27 21 21 45 61</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1d31f20 e-con-full e-flex e-con e-child" data-id="1d31f20" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3500d48 elementor-icon-list--layout-inline elementor-align-left elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3500d48" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">contact@emsp.int</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="http://info@emsp.int">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">  info@emsp.int</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0533939 e-con-full e-flex e-con e-child" data-id="0533939" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-362d2af elementor-search-form--skin-full_screen elementor-widget elementor-widget-search-form" data-id="362d2af" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;full_screen&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.emsp.int/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<form class="elementor-search-form" action="https://www.emsp.int" method="get" role="search">
+									<div class="elementor-search-form__toggle" tabindex="0" role="button">
+				<i aria-hidden="true" class="fas fa-search"></i>				<span class="elementor-screen-only">Rechercher </span>
+			</div>
+						<div class="elementor-search-form__container">
+				<label class="elementor-screen-only" for="elementor-search-form-362d2af">Rechercher </label>
+
+				
+				<input id="elementor-search-form-362d2af" placeholder="Rechercher ..." class="elementor-search-form__input" type="search" name="s" value="">
+				
+				
+								<div class="dialog-lightbox-close-button dialog-close-button" role="button" tabindex="0">
+					<i aria-hidden="true" class="eicon-close"></i>					<span class="elementor-screen-only">Fermer ce champ de recherche.</span>
+				</div>
+							</div>
+		</form>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-83b6bc5 e-con-full e-flex e-con e-child" data-id="83b6bc5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-8ecbec2 e-grid-align-right elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="8ecbec2" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:inline-flex;background-color:#69727d;align-items:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#69727d}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style>		<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-3d5c387" href="https://www.facebook.com/emspabidjan/?locale=fr_FR" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f4d57ff" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-db25bf4" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<i class="fab fa-linkedin-in"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-ae5c148" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e2f735b elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="e2f735b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;],&quot;content_width&quot;:&quot;boxed&quot;,&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-25bde32 e-con-full e-flex e-con e-child" data-id="25bde32" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-10325c2 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="10325c2" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>								<a href="https://www.emsp.int">
+			<img width="341" height="110" src="https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP.png" class="attachment-full size-full wp-image-7" alt="" srcset="https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP.png 341w, https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP-300x97.png 300w" sizes="(max-width: 341px) 100vw, 341px" />				</a>
+											</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fbbeb47 e-con-full e-flex e-con e-child" data-id="fbbeb47" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3ca2337 elementor-nav-menu__align-left elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="3ca2337" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.emsp.int/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1753291121">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-3ca2337" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-42"><a href="https://www.emsp.int/" class="elementor-item">L’INSTITUTION</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.emsp.int/index.php/a-propos-de-nous/" class="elementor-sub-item">À propos de l’EMSP</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2634"><a href="https://www.emsp.int/index.php/mot-de-bienvenue/" class="elementor-sub-item">Mot du Directeur Général</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="https://www.emsp.int/index.php/directeur-des-etudes/" class="elementor-sub-item">Mot Du Directeur Des Etudes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1062"><a href="https://www.emsp.int/?page_id=1039" class="elementor-sub-item">Perspectives</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="https://www.emsp.int/index.php/psd-2017-2018/" class="elementor-sub-item">PSD 2022-2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061"><a href="https://www.emsp.int/index.php/projet-de-lettre-dorientation-generale-2/" class="elementor-sub-item">Projet DTC-EMSP de l’UIT</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="https://www.emsp.int/index.php/iac-emsp/" class="elementor-sub-item">IAC-EMSP</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40"><a href="https://www.emsp.int/index.php/formations/" class="elementor-item">Formations</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2118"><a href="#" class="elementor-sub-item elementor-item-anchor">FORMATIONS INITIALES DIPLÔMANTES (FID)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3769"><a href="https://www.emsp.int/index.php/cycles-et-parcours/" class="elementor-sub-item">CYCLES ET PARCOURS</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2226"><a href="https://www.emsp.int/index.php/formation-classique-postale/" class="elementor-sub-item">Formations supérieures postales (FSP)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="https://www.emsp.int/index.php/formation-fs-menum/" class="elementor-sub-item">Formations Supérieures en Management de l’Economie Numérique (FS MENUM)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222"><a href="https://www.emsp.int/index.php/master-specialise-en-regulation/" class="elementor-sub-item">Mastère Spécialisé en Régulation du Numérique</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3770"><a href="https://www.emsp.int/index.php/conditions-dadmission/" class="elementor-sub-item">CONDITIONS D’ADMISSION</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3771"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item">ADMISSION AUX FCP</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item">ADMISSION AUX FS MENUM</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item">ADMISSION AUX MS RegNUM</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1073"><a href="https://www.emsp.int/?page_id=1053" class="elementor-sub-item">Formations Continues Qualifiantes (FCQ)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223"><a href="https://www.emsp.int/index.php/formation-moyenne-duree-fmd/" class="elementor-sub-item">Formations de courte durée (FCD)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2224"><a href="https://www.emsp.int/index.php/formation-courte-duree-fcd/" class="elementor-sub-item">Formations de moyenne durée (FMD)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="https://www.emsp.int/index.php/e-learning/" class="elementor-sub-item">E-learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="https://www.emsp.int/index.php/formation-pour-non-francophone-fnf/" class="elementor-sub-item">Formations pour non francophone (FNF)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3763"><a href="https://www.emsp.int/index.php/corps-enseignant/" class="elementor-sub-item">CORPS ENSEIGNANT</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3764"><a href="https://www.emsp.int/index.php/resultats-academiques/" class="elementor-sub-item">RÉSULTATS ACADÉMIQUES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.emsp.int/index.php/news-blog/" class="elementor-item">News &#038; Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.emsp.int/index.php/mediatheque/" class="elementor-item">Médiathèque</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2378"><a href="https://www.emsp.int/?page_id=2333" class="elementor-item">Espace étudiant</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2889"><a href="#" class="elementor-sub-item elementor-item-anchor">Admission à EMSP</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2890"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item">ADMISSION AUX FCP</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2785"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item">ADMISSION AUX FS MENUM</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2784"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item">ADMISSION AUX MS RegNUM</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3758"><a href="https://www.emsp.int/index.php/scolarite/" class="elementor-sub-item">SCOLARITE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3757"><a href="https://www.emsp.int/index.php/stages/" class="elementor-sub-item">STAGES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2376"><a href="https://www.emsp.int/index.php/vie-sur-le-campus/" class="elementor-sub-item">VIE SUR LE CAMPUS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379"><a href="https://www.emsp.int/index.php/bibliotheque/" class="elementor-sub-item">BIBLIOTHEQUE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2375"><a href="https://www.emsp.int/index.php/vie-associative/" class="elementor-sub-item">VIE ASSOCIATIVE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2374"><a href="https://www.emsp.int/index.php/soins-et-visites-medicaux/" class="elementor-sub-item">VISITES ET SOINS MÉDICAUX</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2066"><a href="https://www.emsp.int/index.php/faq/" class="elementor-item">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.emsp.int/index.php/contacts/" class="elementor-item">Nous Contacter</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-3ca2337" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-42"><a href="https://www.emsp.int/" class="elementor-item" tabindex="-1">L’INSTITUTION</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.emsp.int/index.php/a-propos-de-nous/" class="elementor-sub-item" tabindex="-1">À propos de l’EMSP</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2634"><a href="https://www.emsp.int/index.php/mot-de-bienvenue/" class="elementor-sub-item" tabindex="-1">Mot du Directeur Général</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="https://www.emsp.int/index.php/directeur-des-etudes/" class="elementor-sub-item" tabindex="-1">Mot Du Directeur Des Etudes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1062"><a href="https://www.emsp.int/?page_id=1039" class="elementor-sub-item" tabindex="-1">Perspectives</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="https://www.emsp.int/index.php/psd-2017-2018/" class="elementor-sub-item" tabindex="-1">PSD 2022-2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061"><a href="https://www.emsp.int/index.php/projet-de-lettre-dorientation-generale-2/" class="elementor-sub-item" tabindex="-1">Projet DTC-EMSP de l’UIT</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="https://www.emsp.int/index.php/iac-emsp/" class="elementor-sub-item" tabindex="-1">IAC-EMSP</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40"><a href="https://www.emsp.int/index.php/formations/" class="elementor-item" tabindex="-1">Formations</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2118"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">FORMATIONS INITIALES DIPLÔMANTES (FID)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3769"><a href="https://www.emsp.int/index.php/cycles-et-parcours/" class="elementor-sub-item" tabindex="-1">CYCLES ET PARCOURS</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2226"><a href="https://www.emsp.int/index.php/formation-classique-postale/" class="elementor-sub-item" tabindex="-1">Formations supérieures postales (FSP)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="https://www.emsp.int/index.php/formation-fs-menum/" class="elementor-sub-item" tabindex="-1">Formations Supérieures en Management de l’Economie Numérique (FS MENUM)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222"><a href="https://www.emsp.int/index.php/master-specialise-en-regulation/" class="elementor-sub-item" tabindex="-1">Mastère Spécialisé en Régulation du Numérique</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3770"><a href="https://www.emsp.int/index.php/conditions-dadmission/" class="elementor-sub-item" tabindex="-1">CONDITIONS D’ADMISSION</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3771"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FCP</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FS MENUM</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX MS RegNUM</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1073"><a href="https://www.emsp.int/?page_id=1053" class="elementor-sub-item" tabindex="-1">Formations Continues Qualifiantes (FCQ)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223"><a href="https://www.emsp.int/index.php/formation-moyenne-duree-fmd/" class="elementor-sub-item" tabindex="-1">Formations de courte durée (FCD)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2224"><a href="https://www.emsp.int/index.php/formation-courte-duree-fcd/" class="elementor-sub-item" tabindex="-1">Formations de moyenne durée (FMD)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="https://www.emsp.int/index.php/e-learning/" class="elementor-sub-item" tabindex="-1">E-learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="https://www.emsp.int/index.php/formation-pour-non-francophone-fnf/" class="elementor-sub-item" tabindex="-1">Formations pour non francophone (FNF)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3763"><a href="https://www.emsp.int/index.php/corps-enseignant/" class="elementor-sub-item" tabindex="-1">CORPS ENSEIGNANT</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3764"><a href="https://www.emsp.int/index.php/resultats-academiques/" class="elementor-sub-item" tabindex="-1">RÉSULTATS ACADÉMIQUES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.emsp.int/index.php/news-blog/" class="elementor-item" tabindex="-1">News &#038; Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.emsp.int/index.php/mediatheque/" class="elementor-item" tabindex="-1">Médiathèque</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2378"><a href="https://www.emsp.int/?page_id=2333" class="elementor-item" tabindex="-1">Espace étudiant</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2889"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Admission à EMSP</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2890"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FCP</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2785"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FS MENUM</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2784"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX MS RegNUM</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3758"><a href="https://www.emsp.int/index.php/scolarite/" class="elementor-sub-item" tabindex="-1">SCOLARITE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3757"><a href="https://www.emsp.int/index.php/stages/" class="elementor-sub-item" tabindex="-1">STAGES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2376"><a href="https://www.emsp.int/index.php/vie-sur-le-campus/" class="elementor-sub-item" tabindex="-1">VIE SUR LE CAMPUS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379"><a href="https://www.emsp.int/index.php/bibliotheque/" class="elementor-sub-item" tabindex="-1">BIBLIOTHEQUE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2375"><a href="https://www.emsp.int/index.php/vie-associative/" class="elementor-sub-item" tabindex="-1">VIE ASSOCIATIVE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2374"><a href="https://www.emsp.int/index.php/soins-et-visites-medicaux/" class="elementor-sub-item" tabindex="-1">VISITES ET SOINS MÉDICAUX</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2066"><a href="https://www.emsp.int/index.php/faq/" class="elementor-item" tabindex="-1">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.emsp.int/index.php/contacts/" class="elementor-item" tabindex="-1">Nous Contacter</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fe11d64 e-con-full e-flex e-con e-child" data-id="fe11d64" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-8a1ff44 e-con-full e-flex e-con e-child" data-id="8a1ff44" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-3d0680c elementor-widget__width-inherit elementor-widget-laptop__width-initial elementor-widget elementor-widget-counter" data-id="3d0680c" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-counter .elementor-counter-number-wrapper{display:flex;font-size:69px;font-weight:600;line-height:1}.elementor-counter .elementor-counter-number-prefix,.elementor-counter .elementor-counter-number-suffix{flex-grow:1;white-space:pre-wrap}.elementor-counter .elementor-counter-number-prefix{text-align:right}.elementor-counter .elementor-counter-number-suffix{text-align:left}.elementor-counter .elementor-counter-title{text-align:center;font-size:19px;font-weight:400;line-height:2.5}</style>		<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="906424" data-from-value="0" data-delimiter=" ">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">Visiteurs à ce jour</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7424aa0 elementor-widget elementor-widget-text-editor" data-id="7424aa0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>										</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-59335e7 elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-html" data-id="59335e7" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			 <div>Website visit count:</div>
+  <div class="website-counter"></div>
+  <!--<button id="reset">Reset</button>-->
+  
+  <script>
+      var counterContainer = document.querySelector(".website-counter");
+var resetButton = document.querySelector("#reset");
+var visitCount = localStorage.getItem("page_view");
+
+// Check if page_view entry is present
+if (visitCount) {
+  visitCount = Number(visitCount) + 1;
+  localStorage.setItem("page_view", visitCount);
+} else {
+  visitCount = 1;
+  localStorage.setItem("page_view", 1);
+}
+counterContainer.innerHTML = visitCount;
+
+// Adding onClick event listener
+resetButton.addEventListener("click", () => {
+  visitCount = 1;
+  localStorage.setItem("page_view", 1);
+  counterContainer.innerHTML = visitCount;
+});
+
+  </script>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-045c2bb elementor-hidden-desktop elementor-hidden-laptop e-flex e-con-boxed e-con e-parent" data-id="045c2bb" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3e60e68 e-con-full e-flex e-con e-child" data-id="3e60e68" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3ede2a5 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="3ede2a5" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="https://www.emsp.int">
+			<img width="341" height="110" src="https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP.png" class="attachment-full size-full wp-image-7" alt="" srcset="https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP.png 341w, https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP-300x97.png 300w" sizes="(max-width: 341px) 100vw, 341px" />				</a>
+											</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7529126 e-con-full e-flex e-con e-child" data-id="7529126" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-f28947d elementor-view-default elementor-widget elementor-widget-icon" data-id="f28947d" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijc1MSIsInRvZ2dsZSI6ZmFsc2V9">
+			<i aria-hidden="true" class="fas fa-bars"></i>			</a>
+		</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4457052 elementor-hidden-desktop elementor-hidden-laptop e-flex e-con-boxed e-con e-parent" data-id="4457052" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3eb6916 elementor-widget-tablet__width-inherit elementor-widget elementor-widget-counter" data-id="3eb6916" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="906424" data-from-value="0" data-delimiter=" ">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">Visiteurs à ce jour</div>
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+						</div>
+		<main id="content" class="site-main">
+
+			<header class="page-header">
+			<h1 class="entry-title">La page ne peut pas être trouvée.</h1>
+		</header>
+	
+	<div class="page-content">
+		<p>Il semble que rien n’a été trouvé à cet emplacement.</p>
+	</div>
+
+</main>
+		<div data-elementor-type="footer" data-elementor-id="55" class="elementor elementor-55 elementor-location-footer" data-elementor-post-type="elementor_library">
+						<div class="elementor-element elementor-element-16394e9 e-flex e-con-boxed e-con e-parent" data-id="16394e9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3f0ae76 e-con-full e-flex e-con e-child" data-id="3f0ae76" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-15fc9a7 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="15fc9a7" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.emsp.int/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1753291122">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="108" height="88" viewBox="0 0 108 88" fill="none"><path d="M15.875 0.3125H80.6875V23.1875H107.375V72.75H65.4375V88H0.625V38.4375H15.875V0.3125ZM23.5 7.9375V38.4375H38.75V23.1875H73.0625V7.9375H23.5ZM46.375 30.8125V38.4375H65.4375V65.125H99.75V30.8125H46.375ZM80.6875 38.4375H92.125V46.0625H80.6875V38.4375ZM8.25 46.0625V50.3516L31.2441 64.6484C31.8001 64.9661 32.3958 65.125 33.0312 65.125C33.6667 65.125 34.2624 64.9661 34.8184 64.6484L57.8125 50.3516V46.0625H15.875H8.25ZM57.8125 59.2871L38.8691 71.082C37.0423 72.194 35.0964 72.75 33.0312 72.75C30.9661 72.75 29.0202 72.194 27.1934 71.082L8.25 59.2871V80.375H57.8125V59.2871Z" fill="white"></path></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Restez informés					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						en vous abonnant à la newsletter					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-38dc5c2 e-con-full e-flex e-con e-child" data-id="38dc5c2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-15a5e90 e-flex e-con-boxed e-con e-parent" data-id="15a5e90" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3be8a82 e-con-full e-flex e-con e-child" data-id="3be8a82" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-d8e0485 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="d8e0485" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="https://www.emsp.int">
+			<img width="341" height="110" src="https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP.png" class="attachment-full size-full wp-image-7" alt="" loading="lazy" srcset="https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP.png 341w, https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP-300x97.png 300w" sizes="(max-width: 341px) 100vw, 341px" />				</a>
+											</div>
+				</div>
+				<div class="elementor-element elementor-element-bcfd4bf elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bcfd4bf" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="20" fill="#086136"></circle><g clip-path="url(#clip0_55_144)"><path d="M23.05 13C24.0267 13.1906 24.9244 13.6683 25.6281 14.3719C26.3317 15.0756 26.8094 15.9733 27 16.95M23.05 9C25.0793 9.22544 26.9716 10.1342 28.4162 11.577C29.8609 13.0198 30.772 14.911 31 16.94M30 24.92V27.92C30.0011 28.1985 29.9441 28.4742 29.8325 28.7293C29.7209 28.9845 29.5573 29.2136 29.3521 29.4019C29.1468 29.5901 28.9046 29.7335 28.6407 29.8227C28.3769 29.9119 28.0974 29.9451 27.82 29.92C24.7428 29.5856 21.787 28.5341 19.19 26.85C16.7738 25.3147 14.7253 23.2662 13.19 20.85C11.5 18.2412 10.4482 15.271 10.12 12.18C10.095 11.9035 10.1279 11.6248 10.2165 11.3616C10.3051 11.0985 10.4476 10.8567 10.6348 10.6516C10.822 10.4466 11.0498 10.2827 11.3038 10.1705C11.5578 10.0583 11.8323 10.0003 12.11 10H15.11C15.5953 9.99522 16.0658 10.1671 16.4338 10.4835C16.8017 10.8 17.0421 11.2394 17.11 11.72C17.2366 12.6801 17.4714 13.6227 17.81 14.53C17.9445 14.8879 17.9737 15.2769 17.8939 15.6509C17.8141 16.0248 17.6289 16.3681 17.36 16.64L16.09 17.91C17.5135 20.4135 19.5864 22.4864 22.09 23.91L23.36 22.64C23.6319 22.3711 23.9751 22.1858 24.3491 22.1061C24.7231 22.0263 25.1121 22.0555 25.47 22.19C26.3773 22.5286 27.3199 22.7634 28.28 22.89C28.7658 22.9585 29.2094 23.2032 29.5265 23.5775C29.8437 23.9518 30.0122 24.4296 30 24.92Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_55_144"><rect width="24" height="24" fill="white" transform="translate(8 8)"></rect></clipPath></defs></svg>						</span>
+										<span class="elementor-icon-list-text">+225 27 21 21 45 60 / 27 21 21 45 61</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">contact@emsp.int / info@emsp.int <br>18 BP 42 Abidjan 18</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="20" fill="#086136"></circle><path d="M29 18C29 25 20 31 20 31C20 31 11 25 11 18C11 15.6131 11.9482 13.3239 13.636 11.636C15.3239 9.94821 17.6131 9 20 9C22.3869 9 24.6761 9.94821 26.364 11.636C28.0518 13.3239 29 15.6131 29 18Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M20 21C21.6569 21 23 19.6569 23 18C23 16.3431 21.6569 15 20 15C18.3431 15 17 16.3431 17 18C17 19.6569 18.3431 21 20 21Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Abidjan, Treichville, Zone 3, Km4, Boulevard de Marseille, Concession des Postes et Télécommunications</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b8b93ad e-con-full e-flex e-con e-child" data-id="b8b93ad" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-95a6893 elementor-widget elementor-widget-heading" data-id="95a6893" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 20-09-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h4 class="elementor-heading-title elementor-size-default">Menu</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c5f7265 elementor-widget elementor-widget-nav-menu" data-id="c5f7265" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-c5f7265" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-42"><a href="https://www.emsp.int/" class="elementor-item" tabindex="-1">L’INSTITUTION</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.emsp.int/index.php/a-propos-de-nous/" class="elementor-sub-item" tabindex="-1">À propos de l’EMSP</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2634"><a href="https://www.emsp.int/index.php/mot-de-bienvenue/" class="elementor-sub-item" tabindex="-1">Mot du Directeur Général</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="https://www.emsp.int/index.php/directeur-des-etudes/" class="elementor-sub-item" tabindex="-1">Mot Du Directeur Des Etudes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1062"><a href="https://www.emsp.int/?page_id=1039" class="elementor-sub-item" tabindex="-1">Perspectives</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="https://www.emsp.int/index.php/psd-2017-2018/" class="elementor-sub-item" tabindex="-1">PSD 2022-2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061"><a href="https://www.emsp.int/index.php/projet-de-lettre-dorientation-generale-2/" class="elementor-sub-item" tabindex="-1">Projet DTC-EMSP de l’UIT</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="https://www.emsp.int/index.php/iac-emsp/" class="elementor-sub-item" tabindex="-1">IAC-EMSP</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40"><a href="https://www.emsp.int/index.php/formations/" class="elementor-item" tabindex="-1">Formations</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2118"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">FORMATIONS INITIALES DIPLÔMANTES (FID)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3769"><a href="https://www.emsp.int/index.php/cycles-et-parcours/" class="elementor-sub-item" tabindex="-1">CYCLES ET PARCOURS</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2226"><a href="https://www.emsp.int/index.php/formation-classique-postale/" class="elementor-sub-item" tabindex="-1">Formations supérieures postales (FSP)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="https://www.emsp.int/index.php/formation-fs-menum/" class="elementor-sub-item" tabindex="-1">Formations Supérieures en Management de l’Economie Numérique (FS MENUM)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222"><a href="https://www.emsp.int/index.php/master-specialise-en-regulation/" class="elementor-sub-item" tabindex="-1">Mastère Spécialisé en Régulation du Numérique</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3770"><a href="https://www.emsp.int/index.php/conditions-dadmission/" class="elementor-sub-item" tabindex="-1">CONDITIONS D’ADMISSION</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3771"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FCP</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FS MENUM</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX MS RegNUM</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1073"><a href="https://www.emsp.int/?page_id=1053" class="elementor-sub-item" tabindex="-1">Formations Continues Qualifiantes (FCQ)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223"><a href="https://www.emsp.int/index.php/formation-moyenne-duree-fmd/" class="elementor-sub-item" tabindex="-1">Formations de courte durée (FCD)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2224"><a href="https://www.emsp.int/index.php/formation-courte-duree-fcd/" class="elementor-sub-item" tabindex="-1">Formations de moyenne durée (FMD)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="https://www.emsp.int/index.php/e-learning/" class="elementor-sub-item" tabindex="-1">E-learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="https://www.emsp.int/index.php/formation-pour-non-francophone-fnf/" class="elementor-sub-item" tabindex="-1">Formations pour non francophone (FNF)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3763"><a href="https://www.emsp.int/index.php/corps-enseignant/" class="elementor-sub-item" tabindex="-1">CORPS ENSEIGNANT</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3764"><a href="https://www.emsp.int/index.php/resultats-academiques/" class="elementor-sub-item" tabindex="-1">RÉSULTATS ACADÉMIQUES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.emsp.int/index.php/news-blog/" class="elementor-item" tabindex="-1">News &#038; Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.emsp.int/index.php/mediatheque/" class="elementor-item" tabindex="-1">Médiathèque</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2378"><a href="https://www.emsp.int/?page_id=2333" class="elementor-item" tabindex="-1">Espace étudiant</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2889"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Admission à EMSP</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2890"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FCP</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2785"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FS MENUM</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2784"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX MS RegNUM</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3758"><a href="https://www.emsp.int/index.php/scolarite/" class="elementor-sub-item" tabindex="-1">SCOLARITE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3757"><a href="https://www.emsp.int/index.php/stages/" class="elementor-sub-item" tabindex="-1">STAGES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2376"><a href="https://www.emsp.int/index.php/vie-sur-le-campus/" class="elementor-sub-item" tabindex="-1">VIE SUR LE CAMPUS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379"><a href="https://www.emsp.int/index.php/bibliotheque/" class="elementor-sub-item" tabindex="-1">BIBLIOTHEQUE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2375"><a href="https://www.emsp.int/index.php/vie-associative/" class="elementor-sub-item" tabindex="-1">VIE ASSOCIATIVE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2374"><a href="https://www.emsp.int/index.php/soins-et-visites-medicaux/" class="elementor-sub-item" tabindex="-1">VISITES ET SOINS MÉDICAUX</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2066"><a href="https://www.emsp.int/index.php/faq/" class="elementor-item" tabindex="-1">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.emsp.int/index.php/contacts/" class="elementor-item" tabindex="-1">Nous Contacter</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b094ddb e-con-full e-flex e-con e-child" data-id="b094ddb" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-6b4084a elementor-widget elementor-widget-heading" data-id="6b4084a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Liens utiles</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a128a9b elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="a128a9b" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
+				<ul id="menu-1-a128a9b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2599"><a href="https://www.emsp.int/index.php/a-propos-de-nous/" class="elementor-item">À propos de l’EMSP</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2600"><a href="https://www.emsp.int/index.php/formations/" class="elementor-item">Formations</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-item">Admission à l’EMSP</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a href="https://www.emsp.int/index.php/a-propos-de-nous/#siege" class="elementor-item elementor-item-anchor">Siège de l’EMSP</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2601"><a href="https://www.emsp.int/index.php/contacts/" class="elementor-item">Nous contacter</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-a128a9b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2599"><a href="https://www.emsp.int/index.php/a-propos-de-nous/" class="elementor-item" tabindex="-1">À propos de l’EMSP</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2600"><a href="https://www.emsp.int/index.php/formations/" class="elementor-item" tabindex="-1">Formations</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-item" tabindex="-1">Admission à l’EMSP</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a href="https://www.emsp.int/index.php/a-propos-de-nous/#siege" class="elementor-item elementor-item-anchor" tabindex="-1">Siège de l’EMSP</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2601"><a href="https://www.emsp.int/index.php/contacts/" class="elementor-item" tabindex="-1">Nous contacter</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2834f90 e-con-full e-flex e-con e-child" data-id="2834f90" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-deda491 elementor-widget elementor-widget-heading" data-id="deda491" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Nos Réseaux Sociaux </h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3745eb9 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="3745eb9" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-1827373" href="https://www.facebook.com/emspabidjan/?locale=fr_FR" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-b529f53" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-b6048e1" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<i class="fab fa-linkedin-in"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-cfdf32c" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f224927 e-flex e-con-boxed e-con e-parent" data-id="f224927" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-026d231 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="026d231" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>© 2024 – <b>EM</b><b>SP</b> – Tous Droits Réservés.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-115a353 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="115a353" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Designed by <b>Knoor IT Consulting</b></p>						</div>
+				</div>
+					</div>
+				</div>
+						</div>
+		
+		<div data-elementor-type="popup" data-elementor-id="751" class="elementor elementor-751 elementor-location-popup" data-elementor-settings="{&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;timing&quot;:{&quot;devices_devices&quot;:[&quot;mobile&quot;,&quot;tablet&quot;],&quot;devices&quot;:&quot;yes&quot;}}" data-elementor-post-type="elementor_library">
+						<div class="elementor-element elementor-element-2b2408e e-flex e-con-boxed e-con e-parent" data-id="2b2408e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-ed7b0fd e-con-full e-flex e-con e-child" data-id="ed7b0fd" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-36097d9 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="36097d9" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="https://www.emsp.int">
+			<img width="341" height="110" src="https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP.png" class="attachment-full size-full wp-image-7" alt="" loading="lazy" srcset="https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP.png 341w, https://www.emsp.int/wp-content/uploads/2023/09/logo-EMSP-300x97.png 300w" sizes="(max-width: 341px) 100vw, 341px" />				</a>
+											</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-818df01 e-con-full e-flex e-con e-child" data-id="818df01" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-53a11bb elementor-nav-menu__align-left elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="53a11bb" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-background e--animation-fade">
+				<ul id="menu-1-53a11bb" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-42"><a href="https://www.emsp.int/" class="elementor-item">L’INSTITUTION</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.emsp.int/index.php/a-propos-de-nous/" class="elementor-sub-item">À propos de l’EMSP</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2634"><a href="https://www.emsp.int/index.php/mot-de-bienvenue/" class="elementor-sub-item">Mot du Directeur Général</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="https://www.emsp.int/index.php/directeur-des-etudes/" class="elementor-sub-item">Mot Du Directeur Des Etudes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1062"><a href="https://www.emsp.int/?page_id=1039" class="elementor-sub-item">Perspectives</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="https://www.emsp.int/index.php/psd-2017-2018/" class="elementor-sub-item">PSD 2022-2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061"><a href="https://www.emsp.int/index.php/projet-de-lettre-dorientation-generale-2/" class="elementor-sub-item">Projet DTC-EMSP de l’UIT</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="https://www.emsp.int/index.php/iac-emsp/" class="elementor-sub-item">IAC-EMSP</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40"><a href="https://www.emsp.int/index.php/formations/" class="elementor-item">Formations</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2118"><a href="#" class="elementor-sub-item elementor-item-anchor">FORMATIONS INITIALES DIPLÔMANTES (FID)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3769"><a href="https://www.emsp.int/index.php/cycles-et-parcours/" class="elementor-sub-item">CYCLES ET PARCOURS</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2226"><a href="https://www.emsp.int/index.php/formation-classique-postale/" class="elementor-sub-item">Formations supérieures postales (FSP)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="https://www.emsp.int/index.php/formation-fs-menum/" class="elementor-sub-item">Formations Supérieures en Management de l’Economie Numérique (FS MENUM)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222"><a href="https://www.emsp.int/index.php/master-specialise-en-regulation/" class="elementor-sub-item">Mastère Spécialisé en Régulation du Numérique</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3770"><a href="https://www.emsp.int/index.php/conditions-dadmission/" class="elementor-sub-item">CONDITIONS D’ADMISSION</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3771"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item">ADMISSION AUX FCP</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item">ADMISSION AUX FS MENUM</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item">ADMISSION AUX MS RegNUM</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1073"><a href="https://www.emsp.int/?page_id=1053" class="elementor-sub-item">Formations Continues Qualifiantes (FCQ)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223"><a href="https://www.emsp.int/index.php/formation-moyenne-duree-fmd/" class="elementor-sub-item">Formations de courte durée (FCD)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2224"><a href="https://www.emsp.int/index.php/formation-courte-duree-fcd/" class="elementor-sub-item">Formations de moyenne durée (FMD)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="https://www.emsp.int/index.php/e-learning/" class="elementor-sub-item">E-learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="https://www.emsp.int/index.php/formation-pour-non-francophone-fnf/" class="elementor-sub-item">Formations pour non francophone (FNF)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3763"><a href="https://www.emsp.int/index.php/corps-enseignant/" class="elementor-sub-item">CORPS ENSEIGNANT</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3764"><a href="https://www.emsp.int/index.php/resultats-academiques/" class="elementor-sub-item">RÉSULTATS ACADÉMIQUES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.emsp.int/index.php/news-blog/" class="elementor-item">News &#038; Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.emsp.int/index.php/mediatheque/" class="elementor-item">Médiathèque</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2378"><a href="https://www.emsp.int/?page_id=2333" class="elementor-item">Espace étudiant</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2889"><a href="#" class="elementor-sub-item elementor-item-anchor">Admission à EMSP</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2890"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item">ADMISSION AUX FCP</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2785"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item">ADMISSION AUX FS MENUM</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2784"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item">ADMISSION AUX MS RegNUM</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3758"><a href="https://www.emsp.int/index.php/scolarite/" class="elementor-sub-item">SCOLARITE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3757"><a href="https://www.emsp.int/index.php/stages/" class="elementor-sub-item">STAGES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2376"><a href="https://www.emsp.int/index.php/vie-sur-le-campus/" class="elementor-sub-item">VIE SUR LE CAMPUS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379"><a href="https://www.emsp.int/index.php/bibliotheque/" class="elementor-sub-item">BIBLIOTHEQUE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2375"><a href="https://www.emsp.int/index.php/vie-associative/" class="elementor-sub-item">VIE ASSOCIATIVE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2374"><a href="https://www.emsp.int/index.php/soins-et-visites-medicaux/" class="elementor-sub-item">VISITES ET SOINS MÉDICAUX</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2066"><a href="https://www.emsp.int/index.php/faq/" class="elementor-item">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.emsp.int/index.php/contacts/" class="elementor-item">Nous Contacter</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-53a11bb" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-42"><a href="https://www.emsp.int/" class="elementor-item" tabindex="-1">L’INSTITUTION</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.emsp.int/index.php/a-propos-de-nous/" class="elementor-sub-item" tabindex="-1">À propos de l’EMSP</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2634"><a href="https://www.emsp.int/index.php/mot-de-bienvenue/" class="elementor-sub-item" tabindex="-1">Mot du Directeur Général</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="https://www.emsp.int/index.php/directeur-des-etudes/" class="elementor-sub-item" tabindex="-1">Mot Du Directeur Des Etudes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1062"><a href="https://www.emsp.int/?page_id=1039" class="elementor-sub-item" tabindex="-1">Perspectives</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="https://www.emsp.int/index.php/psd-2017-2018/" class="elementor-sub-item" tabindex="-1">PSD 2022-2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061"><a href="https://www.emsp.int/index.php/projet-de-lettre-dorientation-generale-2/" class="elementor-sub-item" tabindex="-1">Projet DTC-EMSP de l’UIT</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="https://www.emsp.int/index.php/iac-emsp/" class="elementor-sub-item" tabindex="-1">IAC-EMSP</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40"><a href="https://www.emsp.int/index.php/formations/" class="elementor-item" tabindex="-1">Formations</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2118"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">FORMATIONS INITIALES DIPLÔMANTES (FID)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3769"><a href="https://www.emsp.int/index.php/cycles-et-parcours/" class="elementor-sub-item" tabindex="-1">CYCLES ET PARCOURS</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2226"><a href="https://www.emsp.int/index.php/formation-classique-postale/" class="elementor-sub-item" tabindex="-1">Formations supérieures postales (FSP)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2225"><a href="https://www.emsp.int/index.php/formation-fs-menum/" class="elementor-sub-item" tabindex="-1">Formations Supérieures en Management de l’Economie Numérique (FS MENUM)</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2222"><a href="https://www.emsp.int/index.php/master-specialise-en-regulation/" class="elementor-sub-item" tabindex="-1">Mastère Spécialisé en Régulation du Numérique</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3770"><a href="https://www.emsp.int/index.php/conditions-dadmission/" class="elementor-sub-item" tabindex="-1">CONDITIONS D’ADMISSION</a>
+		<ul class="sub-menu elementor-nav-menu--dropdown">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3771"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FCP</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FS MENUM</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX MS RegNUM</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1073"><a href="https://www.emsp.int/?page_id=1053" class="elementor-sub-item" tabindex="-1">Formations Continues Qualifiantes (FCQ)</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2223"><a href="https://www.emsp.int/index.php/formation-moyenne-duree-fmd/" class="elementor-sub-item" tabindex="-1">Formations de courte durée (FCD)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2224"><a href="https://www.emsp.int/index.php/formation-courte-duree-fcd/" class="elementor-sub-item" tabindex="-1">Formations de moyenne durée (FMD)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="https://www.emsp.int/index.php/e-learning/" class="elementor-sub-item" tabindex="-1">E-learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074"><a href="https://www.emsp.int/index.php/formation-pour-non-francophone-fnf/" class="elementor-sub-item" tabindex="-1">Formations pour non francophone (FNF)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3763"><a href="https://www.emsp.int/index.php/corps-enseignant/" class="elementor-sub-item" tabindex="-1">CORPS ENSEIGNANT</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3764"><a href="https://www.emsp.int/index.php/resultats-academiques/" class="elementor-sub-item" tabindex="-1">RÉSULTATS ACADÉMIQUES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://www.emsp.int/index.php/news-blog/" class="elementor-item" tabindex="-1">News &#038; Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.emsp.int/index.php/mediatheque/" class="elementor-item" tabindex="-1">Médiathèque</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2378"><a href="https://www.emsp.int/?page_id=2333" class="elementor-item" tabindex="-1">Espace étudiant</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2889"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Admission à EMSP</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2890"><a href="https://www.emsp.int/index.php/admission-aux-fcp/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FCP</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2785"><a href="https://www.emsp.int/index.php/admission-aux-fs-menum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX FS MENUM</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2784"><a href="https://www.emsp.int/index.php/admission-au-ms-regnum/" class="elementor-sub-item" tabindex="-1">ADMISSION AUX MS RegNUM</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3758"><a href="https://www.emsp.int/index.php/scolarite/" class="elementor-sub-item" tabindex="-1">SCOLARITE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3757"><a href="https://www.emsp.int/index.php/stages/" class="elementor-sub-item" tabindex="-1">STAGES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2376"><a href="https://www.emsp.int/index.php/vie-sur-le-campus/" class="elementor-sub-item" tabindex="-1">VIE SUR LE CAMPUS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379"><a href="https://www.emsp.int/index.php/bibliotheque/" class="elementor-sub-item" tabindex="-1">BIBLIOTHEQUE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2375"><a href="https://www.emsp.int/index.php/vie-associative/" class="elementor-sub-item" tabindex="-1">VIE ASSOCIATIVE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2374"><a href="https://www.emsp.int/index.php/soins-et-visites-medicaux/" class="elementor-sub-item" tabindex="-1">VISITES ET SOINS MÉDICAUX</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2066"><a href="https://www.emsp.int/index.php/faq/" class="elementor-item" tabindex="-1">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.emsp.int/index.php/contacts/" class="elementor-item" tabindex="-1">Nous Contacter</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-54e0192 e-flex e-con-boxed e-con e-parent" data-id="54e0192" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d693944 e-flex e-con-boxed e-con e-child" data-id="d693944" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7290bde elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7290bde" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">+225 27 21 21 45 60</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">+225 27 21 21 45 61</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b4441c2 e-flex e-con-boxed e-con e-child" data-id="b4441c2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-891cb69 elementor-icon-list--layout-inline elementor-align-right elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="891cb69" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">contact@emsp.int</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-99113f9 e-flex e-con-boxed e-con e-parent" data-id="99113f9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9eb2b97 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="9eb2b97" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-3d5c387" href="https://www.facebook.com/emspabidjan/?locale=fr_FR" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f4d57ff" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-db25bf4" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<i class="fab fa-linkedin-in"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-ae5c148" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+						</div>
+		<link rel='stylesheet' id='elementor-post-751-css' href='https://www.emsp.int/wp-content/uploads/elementor/css/post-751.css?ver=1753291124' media='all' />
+<script src="https://www.emsp.int/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0" id="hello-theme-frontend-js"></script>
+<script src="https://stats.wp.com/e-202609.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script id="jetpack-stats-js-after">
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'226993485',post:'0',tz:'0',srv:'www.emsp.int',j:'1:12.8.2'} ]);
+_stq.push([ "clickTrackerInit", "226993485", "0" ]);
+</script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1" id="smartmenus-js"></script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1" id="jquery-numerator-js"></script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.16.2" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4" id="elementor-frontend-modules-js"></script>
+<script src="https://www.emsp.int/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://www.emsp.int/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://www.emsp.int/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://www.emsp.int/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://www.emsp.int/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.emsp.int\/wp-admin\/admin-ajax.php","nonce":"9d3e15844d","urls":{"assets":"https:\/\/www.emsp.int\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.emsp.int\/index.php\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.emsp.int\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.16.2" id="elementor-pro-frontend-js"></script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://www.emsp.int/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer","a11yCarouselWrapperAriaLabel":"Carousel | Scroll horizontal: Fl\u00e8che gauche & droite","a11yCarouselPrevSlideMessage":"Diapositive pr\u00e9c\u00e9dente","a11yCarouselNextSlideMessage":"Diapositive suivante","a11yCarouselFirstSlideMessage":"Ceci est la premi\u00e8re diapositive","a11yCarouselLastSlideMessage":"Ceci est la derni\u00e8re diapositive","a11yCarouselPaginationBulletMessage":"Aller \u00e0 la diapositive"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.16.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"e_global_styleguide":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/www.emsp.int\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":0,"title":"Page non trouv\u00e9e &#8211; EMSP","excerpt":""}};
+</script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4" id="elementor-frontend-js"></script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.16.2" id="pro-elements-handlers-js"></script>
+<script src="https://www.emsp.int/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.16.2" id="e-sticky-js"></script>
+
+</body>
+</html>
